@@ -1,2 +1,2 @@
 # devops-with-docker
-DevOps with Docker
+Avoin yo: DevOps with Docker 1-3 op, lv 2019-2020
