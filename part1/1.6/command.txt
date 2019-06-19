@@ -1,0 +1,2 @@
+docker build --tag=docker-clock .
+docker run -it docker-clock

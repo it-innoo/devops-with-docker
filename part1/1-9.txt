@@ -1,0 +1,7 @@
+docker run -d -p 80 devopsdockeruh/ports_exercise
+289343063df3abbb1a5258d64ebd2761934766e3345ebc07657c5f532dc55e0a
+
+docker port 2893
+80/tcp -> 0.0.0.0:32770
+
+
